@@ -1,4 +1,3 @@
--- Display column details for the 'Books' table without using DESCRIBE, EXPLAIN, or ANALYZE
 SELECT 
     COLUMN_NAME,
     COLUMN_TYPE,
